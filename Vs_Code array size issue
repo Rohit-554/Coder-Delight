@@ -1,0 +1,9 @@
+Sometimes in vs code you may not be able to give variable value to array like ;
+int n;
+a[n] // give you error in order to solve this issue follow this step 
+To select g++ compiler 
+step 1 : go to MinGw -> bin -> g++ -> press shift+right mouse button -> copy path
+step 2 : open visual studio -> go to view -> Command pallete -> search for C++ (UI)
+-> go to compiler path -> paste the g++ path and then scroll down and select IntelliSense mode ->
+g++x64 
+All done !! Happy Coding 
